@@ -4,4 +4,4 @@ putain j'arrive pas à ouvrir cette merde à partir de git bash et ça me casse 
 
 et maintenant on modifie depuis GitHub
 
-puis ensuite depuis la machine locale 
+puis ensuite depuis la machine locale et ça c'est foufou
