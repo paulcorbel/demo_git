@@ -1,7 +1,2 @@
-# demo_git
-une demo de git
-putain j'arrive pas à ouvrir cette merde à partir de git bash et ça me casse les couilles mon pote
-
-et maintenant on modifie depuis GitHub
-
-puis ensuite depuis la machine locale et ça c'est foufou
+maintenant en fait je vais créer un fichier txt, puis un fichier docx, puis un fichier c et tout commiter et tout mettre sur github
+c'est pas mal comme idée hein
